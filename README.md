@@ -1,2 +1,2 @@
 # Python-Codes
-Bubble Sort Python 
+Alogrithms
