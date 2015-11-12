@@ -1,4 +1,6 @@
-# your code goes here
+# Author: Abdulhalim Yusuf
+# Date: November 12, 2015
+# Project: Bubble Sort
 
 
 #list = [3 , 2, 9 , 6 , 5]
@@ -8,7 +10,7 @@ print ("==== Bubble Sort Test begins ====\n")
 
 print ("Unsorted List", (list))
 
-print ("The legnth of this list is", (len(list)), "\n")
+print ("The length of this list is", (len(list)), "\n")
 
 
 
