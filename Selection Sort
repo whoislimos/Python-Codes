@@ -1,3 +1,9 @@
+# Author: Abdulhalim Yusuf
+# Date: November 17, 2015
+# Project: Selection Sort
+
+
+
 def selectionSort(a):
 	n = len(a)
 	for i in range(0,n):
